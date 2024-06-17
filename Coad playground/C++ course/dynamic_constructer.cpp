@@ -1,2 +1,0 @@
-/*the constructer can also be use to allote memory while creating object
-in this we can dinamically allote the memory to the system means we can allote the initial memory at the run time*/

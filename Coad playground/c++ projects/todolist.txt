@@ -1,2 +1,0 @@
-this is a code to create a todo list 
-0
